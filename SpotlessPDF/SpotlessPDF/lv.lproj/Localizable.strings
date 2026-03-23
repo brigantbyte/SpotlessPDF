@@ -1,0 +1,17 @@
+"app.title" = "SpotlessPDF";
+"app.subtitle" = "Ielādē PDF, noņem reklāmas un automātiski saglabā to mapē Lejupielādes vai izvēlētajā vietā.";
+"card.selected_pdf" = "Atlasītais PDF";
+"card.no_pdf_loaded" = "Tu vēl neesi ielādējis nevienu failu.";
+"card.current_destination" = "Pašreizējā vieta: %@";
+"button.change_location" = "Mainīt vietu…";
+"button.load_pdf" = "Ielādēt PDF";
+"button.clean" = "Notīrīt";
+"toast.clean_downloaded" = "Notīrītais PDF ir lejupielādēts";
+"help.remove_selected_pdf" = "Noņemt atlasīto PDF";
+"menu.about" = "Par SpotlessPDF";
+"menu.services" = "Pakalpojumi";
+"menu.hide" = "Paslēpt SpotlessPDF";
+"menu.hide_others" = "Paslēpt pārējos";
+"menu.show_all" = "Rādīt visu";
+"menu.quit" = "Iziet no SpotlessPDF";
+"about.version.format" = "Versija %@";

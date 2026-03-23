@@ -1,0 +1,17 @@
+"app.title" = "SpotlessPDF";
+"app.subtitle" = "Laadi PDF, eemalda reklaamid ja salvesta see automaatselt allalaadimiste kausta või valitud asukohta.";
+"card.selected_pdf" = "Valitud PDF";
+"card.no_pdf_loaded" = "Sa pole veel ühtegi faili laadinud.";
+"card.current_destination" = "Praegune asukoht: %@";
+"button.change_location" = "Muuda asukohta…";
+"button.load_pdf" = "Laadi PDF";
+"button.clean" = "Puhasta";
+"toast.clean_downloaded" = "Puhastatud PDF on alla laaditud";
+"help.remove_selected_pdf" = "Eemalda valitud PDF";
+"menu.about" = "Teave SpotlessPDF-i kohta";
+"menu.services" = "Teenused";
+"menu.hide" = "Peida SpotlessPDF";
+"menu.hide_others" = "Peida teised";
+"menu.show_all" = "Näita kõiki";
+"menu.quit" = "Välju SpotlessPDF-ist";
+"about.version.format" = "Versioon %@";

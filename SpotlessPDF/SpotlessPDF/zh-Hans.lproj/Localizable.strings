@@ -1,0 +1,17 @@
+"app.title" = "SpotlessPDF";
+"app.subtitle" = "加载 PDF，移除广告，并自动将其保存到“下载”文件夹或你选择的位置。";
+"card.selected_pdf" = "已选 PDF";
+"card.no_pdf_loaded" = "你还没有加载任何文件。";
+"card.current_destination" = "当前位置：%@";
+"button.change_location" = "更改位置…";
+"button.load_pdf" = "加载 PDF";
+"button.clean" = "清理";
+"toast.clean_downloaded" = "已下载清理后的 PDF";
+"help.remove_selected_pdf" = "移除已选 PDF";
+"menu.about" = "关于 SpotlessPDF";
+"menu.services" = "服务";
+"menu.hide" = "隐藏 SpotlessPDF";
+"menu.hide_others" = "隐藏其他";
+"menu.show_all" = "全部显示";
+"menu.quit" = "退出 SpotlessPDF";
+"about.version.format" = "版本 %@";

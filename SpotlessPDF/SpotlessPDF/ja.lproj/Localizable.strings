@@ -1,0 +1,17 @@
+"app.title" = "SpotlessPDF";
+"app.subtitle" = "PDFを読み込み、広告を削除して、ダウンロードフォルダまたは選択した場所に自動保存します。";
+"card.selected_pdf" = "選択したPDF";
+"card.no_pdf_loaded" = "まだファイルを読み込んでいません。";
+"card.current_destination" = "現在の保存先: %@";
+"button.change_location" = "保存先を変更…";
+"button.load_pdf" = "PDFを読み込む";
+"button.clean" = "クリーン";
+"toast.clean_downloaded" = "クリーンなPDFをダウンロードしました";
+"help.remove_selected_pdf" = "選択したPDFを外す";
+"menu.about" = "SpotlessPDFについて";
+"menu.services" = "サービス";
+"menu.hide" = "SpotlessPDFを隠す";
+"menu.hide_others" = "ほかを隠す";
+"menu.show_all" = "すべてを表示";
+"menu.quit" = "SpotlessPDFを終了";
+"about.version.format" = "バージョン %@";

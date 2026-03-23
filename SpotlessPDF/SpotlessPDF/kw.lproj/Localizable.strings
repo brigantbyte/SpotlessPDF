@@ -1,0 +1,17 @@
+"app.title" = "SpotlessPDF";
+"app.subtitle" = "Karga PDF, lemel dhiworth ar bruderezh ha y fiyans yn awtomatek dhe'th arghans pellgarga po dhe'n le mayth eus dewisedh.";
+"card.selected_pdf" = "PDF dewisys";
+"card.no_pdf_loaded" = "Ny wruss'ta karga restr ebet hwath.";
+"card.current_destination" = "Leolians a-lemmyn: %@";
+"button.change_location" = "Chanjya leolians…";
+"button.load_pdf" = "Karga PDF";
+"button.clean" = "Glanhe";
+"toast.clean_downloaded" = "PDF glan ys pellgargys";
+"help.remove_selected_pdf" = "Lemel an PDF dewisys";
+"menu.about" = "A-dro dhe SpotlessPDF";
+"menu.services" = "Gwaynoryow";
+"menu.hide" = "Kudha SpotlessPDF";
+"menu.hide_others" = "Kudha ar re erel";
+"menu.show_all" = "Diskwedh oll";
+"menu.quit" = "Kwittya SpotlessPDF";
+"about.version.format" = "Versyon %@";

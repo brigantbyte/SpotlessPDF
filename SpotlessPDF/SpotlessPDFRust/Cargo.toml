@@ -1,0 +1,24 @@
+[package]
+name = "spotlesspdf_rs"
+version = "0.16.4"
+edition = "2021"
+authors = ["YM162 <david.fontaneda@YM162.dev>"]
+description = "Ad removal tool for PDFs."
+readme = "./README.md"
+homepage = "https://github.com/YM162/gulag-cleaner-cli"
+repository = "https://github.com/YM162/gulag-cleaner-cli.git"
+license = "GPL-3.0"
+keywords = ["wuolah", "studocu", "pdf", "stucleaner", "spotlesspdf"]
+exclude=["example_docs/"]
+
+[lib]
+name = "spotlesspdf_rs"
+
+[[bin]]
+name = "spotlesspdf_engine"
+path = "src/main.rs"
+
+[dependencies]
+flate2 = "1.0.27"
+lopdf = "0.34.0"
+regex = "1.11.0"

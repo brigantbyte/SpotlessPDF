@@ -1,0 +1,17 @@
+"app.title" = "SpotlessPDF";
+"app.subtitle" = "Φόρτωσε ένα PDF, αφαίρεσε διαφημίσεις και αποθήκευσέ το αυτόματα στον φάκελο Λήψεις ή στη θέση που θα επιλέξεις.";
+"card.selected_pdf" = "Επιλεγμένο PDF";
+"card.no_pdf_loaded" = "Δεν έχεις φορτώσει ακόμα κανένα αρχείο.";
+"card.current_destination" = "Τρέχων προορισμός: %@";
+"button.change_location" = "Αλλαγή τοποθεσίας…";
+"button.load_pdf" = "Φόρτωση PDF";
+"button.clean" = "Καθαρισμός";
+"toast.clean_downloaded" = "Το καθαρό PDF λήφθηκε";
+"help.remove_selected_pdf" = "Αφαίρεση επιλεγμένου PDF";
+"menu.about" = "Σχετικά με το SpotlessPDF";
+"menu.services" = "Υπηρεσίες";
+"menu.hide" = "Απόκρυψη SpotlessPDF";
+"menu.hide_others" = "Απόκρυψη άλλων";
+"menu.show_all" = "Εμφάνιση όλων";
+"menu.quit" = "Έξοδος από το SpotlessPDF";
+"about.version.format" = "Έκδοση %@";

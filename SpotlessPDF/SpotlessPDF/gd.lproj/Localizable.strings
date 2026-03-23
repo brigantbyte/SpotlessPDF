@@ -1,0 +1,17 @@
+"app.title" = "SpotlessPDF";
+"app.subtitle" = "Luchdaich PDF, thoir air falbh sanasan agus sàbhail e gu fèin-obrachail dhan phasgan luchdaidhean a-nuas no dhan àite a thaghas tu.";
+"card.selected_pdf" = "PDF taghte";
+"card.no_pdf_loaded" = "Cha do luchdaich thu faidhle sam bith fhathast.";
+"card.current_destination" = "Ceann-uidhe làithreach: %@";
+"button.change_location" = "Atharraich ionad…";
+"button.load_pdf" = "Luchdaich PDF";
+"button.clean" = "Glan";
+"toast.clean_downloaded" = "PDF glan air a luchdadh sìos";
+"help.remove_selected_pdf" = "Thoir air falbh am PDF taghte";
+"menu.about" = "Mu SpotlessPDF";
+"menu.services" = "Seirbheisean";
+"menu.hide" = "Falaich SpotlessPDF";
+"menu.hide_others" = "Falaich càch";
+"menu.show_all" = "Seall na h-uile";
+"menu.quit" = "Fàg SpotlessPDF";
+"about.version.format" = "Tionndadh %@";

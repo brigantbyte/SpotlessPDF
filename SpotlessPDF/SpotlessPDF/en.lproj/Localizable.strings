@@ -1,0 +1,17 @@
+"app.title" = "SpotlessPDF";
+"app.subtitle" = "Load a PDF, remove ads and save it automatically to your downloads folder or to the location you choose.";
+"card.selected_pdf" = "Selected PDF";
+"card.no_pdf_loaded" = "You haven't loaded any file yet.";
+"card.current_destination" = "Current destination: %@";
+"button.change_location" = "Change location…";
+"button.load_pdf" = "Load PDF";
+"button.clean" = "Clean";
+"toast.clean_downloaded" = "Clean PDF downloaded";
+"help.remove_selected_pdf" = "Remove selected PDF";
+"menu.about" = "About SpotlessPDF";
+"menu.services" = "Services";
+"menu.hide" = "Hide SpotlessPDF";
+"menu.hide_others" = "Hide Others";
+"menu.show_all" = "Show All";
+"menu.quit" = "Quit SpotlessPDF";
+"about.version.format" = "Version %@";

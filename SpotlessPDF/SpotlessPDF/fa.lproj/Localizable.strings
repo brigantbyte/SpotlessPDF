@@ -1,0 +1,17 @@
+"app.title" = "SpotlessPDF";
+"app.subtitle" = "یک PDF بارگذاری کنید، تبلیغات را حذف کنید و آن را به صورت خودکار در پوشه دانلودها یا مکانی که انتخاب می‌کنید ذخیره کنید.";
+"card.selected_pdf" = "PDF انتخاب‌شده";
+"card.no_pdf_loaded" = "هنوز هیچ فایلی را بارگذاری نکرده‌اید.";
+"card.current_destination" = "مقصد فعلی: %@";
+"button.change_location" = "تغییر مکان…";
+"button.load_pdf" = "بارگذاری PDF";
+"button.clean" = "پاک‌سازی";
+"toast.clean_downloaded" = "PDF پاک‌شده دانلود شد";
+"help.remove_selected_pdf" = "حذف PDF انتخاب‌شده";
+"menu.about" = "درباره SpotlessPDF";
+"menu.services" = "خدمات";
+"menu.hide" = "پنهان کردن SpotlessPDF";
+"menu.hide_others" = "پنهان کردن بقیه";
+"menu.show_all" = "نمایش همه";
+"menu.quit" = "خروج از SpotlessPDF";
+"about.version.format" = "نسخه %@";

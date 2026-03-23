@@ -1,0 +1,17 @@
+"app.title" = "SpotlessPDF";
+"app.subtitle" = "Carrega um PDF, remove anúncios e guarda-o automaticamente na pasta Descargas ou na localização que escolheres.";
+"card.selected_pdf" = "PDF selecionado";
+"card.no_pdf_loaded" = "Ainda não carregaste nenhum ficheiro.";
+"card.current_destination" = "Destino atual: %@";
+"button.change_location" = "Alterar localização…";
+"button.load_pdf" = "Carregar PDF";
+"button.clean" = "Limpar";
+"toast.clean_downloaded" = "PDF limpo descarregado";
+"help.remove_selected_pdf" = "Remover o PDF selecionado";
+"menu.about" = "Sobre SpotlessPDF";
+"menu.services" = "Serviços";
+"menu.hide" = "Ocultar SpotlessPDF";
+"menu.hide_others" = "Ocultar os restantes";
+"menu.show_all" = "Mostrar tudo";
+"menu.quit" = "Sair de SpotlessPDF";
+"about.version.format" = "Versão %@";

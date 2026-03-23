@@ -1,0 +1,17 @@
+"app.title" = "SpotlessPDF";
+"app.subtitle" = "Llwytha PDF, tynnu hysbysebion a'i chadw'n awtomatig yn y ffolder Lawrlwythiadau neu yn y lleoliad o dy ddewis.";
+"card.selected_pdf" = "PDF wedi'i ddewis";
+"card.no_pdf_loaded" = "Nid wyt wedi llwytho unrhyw ffeil eto.";
+"card.current_destination" = "Cyrchfan bresennol: %@";
+"button.change_location" = "Newid lleoliad…";
+"button.load_pdf" = "Llwytho PDF";
+"button.clean" = "Glanhau";
+"toast.clean_downloaded" = "PDF glân wedi'i lawrlwytho";
+"help.remove_selected_pdf" = "Tynnu'r PDF a ddewiswyd";
+"menu.about" = "Ynghylch SpotlessPDF";
+"menu.services" = "Gwasanaethau";
+"menu.hide" = "Cuddio SpotlessPDF";
+"menu.hide_others" = "Cuddio'r lleill";
+"menu.show_all" = "Dangos popeth";
+"menu.quit" = "Gadael SpotlessPDF";
+"about.version.format" = "Fersiwn %@";

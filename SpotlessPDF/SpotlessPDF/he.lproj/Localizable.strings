@@ -1,0 +1,17 @@
+"app.title" = "SpotlessPDF";
+"app.subtitle" = "טען קובץ PDF, הסר פרסומות ושמור אותו אוטומטית בתיקיית ההורדות או במיקום שתבחר.";
+"card.selected_pdf" = "PDF שנבחר";
+"card.no_pdf_loaded" = "עדיין לא טענת שום קובץ.";
+"card.current_destination" = "יעד נוכחי: %@";
+"button.change_location" = "שנה מיקום…";
+"button.load_pdf" = "טען PDF";
+"button.clean" = "נקה";
+"toast.clean_downloaded" = "ה-PDF הנקי הורד";
+"help.remove_selected_pdf" = "הסר את ה-PDF שנבחר";
+"menu.about" = "אודות SpotlessPDF";
+"menu.services" = "שירותים";
+"menu.hide" = "הסתר את SpotlessPDF";
+"menu.hide_others" = "הסתר אחרים";
+"menu.show_all" = "הצג הכול";
+"menu.quit" = "סגור את SpotlessPDF";
+"about.version.format" = "גרסה %@";
