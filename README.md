@@ -1,8 +1,8 @@
 # SpotlessPDF
 
 <p>
-  <img src="images/image_1.png" width="390" />
-  <img src="images/image_2.png" width="390" />
+  <img src="images/image_1.png" width="350" />
+  <img src="images/image_2.png" width="350" />
 </p>
 
 ## Overview
