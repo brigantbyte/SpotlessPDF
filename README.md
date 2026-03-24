@@ -7,7 +7,7 @@
 
 ## Overview
 
-SpotlessPDF is an open-source macOS desktop app that lets users clean ads from PDF files entirely on-device through a simple native interface. It wraps a Rust-based cleaning engine in a SwiftUI/AppKit application designed to make local PDF cleaning easier and more accessible than relying on an external web service. **33 languages supported.**
+SpotlessPDF is an open-source macOS desktop application that lets users clean ads from PDF files entirely on-device through a simple native interface. It wraps a Rust-based cleaning engine in a SwiftUI/AppKit application designed to make local PDF cleaning easier and more accessible than relying on an external web service. **33 languages supported.**
 
 ## Installation
 
